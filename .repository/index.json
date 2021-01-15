@@ -1,0 +1,18 @@
+{
+  "slug": "aws-lambda-remote-session",
+  "namespace": "jrbeverly",
+  "status": "archived",
+  "icon": "icon.svg",
+  "license": {
+    "type": "MIT",
+    "content": "Jonathan Beverly <jrbeverly>"
+  },
+  "topics": [
+    "aws",
+    "powershell",
+    "helpers"
+  ],
+  "languages": [
+    "PowerShell"
+  ]
+}
