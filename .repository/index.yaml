@@ -1,0 +1,16 @@
+slug: aws-lambda-remote-session
+description: Prototype running of New-PSSession in an AWS PowerShell Lambda
+project: workbench
+namespace:
+status: archived
+icon: icon.svg
+license:
+  type: MIT
+  content: Jonathan Beverly <jrbeverly>
+  year: 2020
+topics: |-
+  [
+    "aws",
+    "powershell",
+    "helpers"
+  ]
